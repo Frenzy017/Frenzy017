@@ -1,12 +1,13 @@
 ## Hi there 👋
 
-I'm Alex, an aspiring Front-End developer.
+I'm Alex, a Professional Esports Coach and an aspiring Front-End developer.
 
 🔭 I’m currently applying for intern software developer jobs as I work through the Odin Project's [**React Course**](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript#react-js).
-🌱 I’m currently learning React so I can create a polished To-Do list and other cool projects I have in mind :)
+
+🌱 Right now I'm learning React so I can create a polished To-Do list and other cool projects I have in mind :)
 
 > The Odin Project is a free, open-source curriculum for learning modern web development which teaches you by reading plently of docs, going through personal projects and more! 
-> The answer is always no, if you don't ask 😄
+
 
 
 ## My Skills
