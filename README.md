@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Alex, a professional esports coach and an aspiring front-end developer.
+I'm Alex, a professional esports freelance coach and an aspiring front-end developer.
 
 🔭 I’m currently applying for intern software developer jobs as I work through the Odin Project's [**React Course**](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript#react-js).
 
