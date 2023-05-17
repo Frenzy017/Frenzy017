@@ -2,7 +2,7 @@
 
 I'm Alex, an aspiring Front-End developer.
 
-🔭 I’m currently applying for intern software developer jobs as I work through the Odin Project's [**React Course**](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs).
+🔭 I’m currently applying for intern software developer jobs as I work through the Odin Project's [**React Course**](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript#react-js).
 🌱 I’m currently learning React so I can create a polished To-Do list and other cool projects I have in mind :)
 
 > The Odin Project is a free, open-source curriculum for learning modern web development which teaches you by reading plently of docs, going through personal projects and more! 
@@ -11,7 +11,7 @@ I'm Alex, an aspiring Front-End developer.
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=react,javascript,html,css,webpack,vite,babel,git,vscode,webstorm&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,javascript,html,css,tailwind,vite,babel,git,vscode&perline=9)](https://skillicons.dev)
 
 ## My Stats
 
