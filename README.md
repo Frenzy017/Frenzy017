@@ -11,7 +11,7 @@ I'm Alex, an aspiring Front-End developer.
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=react,javascript,html,css,webpack,vite,babel,git,vscode, webstorm&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,javascript,html,css,webpack,vite,babel,git,vscode,webstorm&perline=8)](https://skillicons.dev)
 
 ## My Stats
 
