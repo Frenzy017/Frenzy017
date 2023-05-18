@@ -4,7 +4,7 @@ I'm Alex, a professional esports freelance coach and an aspiring front-end devel
 
 🔭 I’m currently applying for intern software developer jobs as I work through the Odin Project's [**React Course**](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript#react-js).
 
-🌱 Right now I'm learning React so I can create a polished To-Do list and other cool projects I have in mind :)
+🌱 Right now I'm learning React combined with TypeScript so I can create a polished To-Do list and other cool projects I have in mind :)
 
 > The Odin Project is a free, open-source curriculum for learning modern web development which teaches you by reading plently of docs, going through personal projects and more! 
 
@@ -17,11 +17,16 @@ I'm Alex, a professional esports freelance coach and an aspiring front-end devel
 ## My Stats
 
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Frenzy017&theme=dark&show_icons=true)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Frenzy017&theme=vision-friendly-dark&show_icons=true)
 
 
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Frenzy017&theme=vision-friendly-dark&layout=compact)
 
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Frenzy017)
+## My Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Frenzy017&theme=vision-friendly-dark&repo=admin-dashboard)](https://github.com/Frenzy017/admin-dashborad)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Frenzy017&theme=vision-friendly-dark&repo=calculator)](https://github.com/Frenzy017/calculator)
+
 
 
 <!--
