@@ -17,7 +17,7 @@ I'm Alex, a professional esports freelance coach and an aspiring front-end devel
 ## My Stats
 
 
-![My GitHub Stats](![Aleksandar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frenzy017&theme=dark&show_icons=true))
+![My GitHub Stats](![Aleksandar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frenzy017&theme=dark&show_icons=true)
 
 
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Frenzy017)
