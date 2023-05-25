@@ -17,15 +17,15 @@ I'm Alex, a professional esports freelance coach and an aspiring front-end devel
 ## My Stats
 
 
-![My GitHub Stats](https://github-readme-stats.sigma-five.vercel.app/api?username=Frenzy017&theme=vision-friendly-dark&show_icons=true)
+![My GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Frenzy017&theme=vision-friendly-dark&show_icons=true)
 
 
-![My Top Languages](https://github-readme-stats.sigma-five.vercel.app/api/top-langs/?username=Frenzy017&theme=vision-friendly-dark&layout=compact)
+![My Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Frenzy017&theme=vision-friendly-dark&layout=compact)
 
 ## My Projects
 
-[![Readme Card](https://github-readme-stats.sigma-five.vercel.app/api/pin/?username=Frenzy017&theme=vision-friendly-dark&repo=admin-dashboard)](https://github.com/Frenzy017/admin-dashboard)
-[![Readme Card](https://github-readme-stats.sigma-five.vercel.app/api/pin/?username=Frenzy017&theme=vision-friendly-dark&repo=calculator)](https://github.com/Frenzy017/calculator)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Frenzy017&theme=vision-friendly-dark&repo=admin-dashboard)](https://github.com/Frenzy017/admin-dashboard)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Frenzy017&theme=vision-friendly-dark&repo=calculator)](https://github.com/Frenzy017/calculator)
 
 
 
