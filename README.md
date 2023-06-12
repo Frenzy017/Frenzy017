@@ -24,7 +24,7 @@ I'm Alex, a professional esports freelance coach and an aspiring front-end devel
 
 ## My Projects
 
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Frenzy017&theme=vision-friendly-dark&repo=admin-dashboard)](https://github.com/Frenzy017/admin-dashboard)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Frenzy017&theme=vision-friendly-dark&repo=admin-dashboard)](https://github.com/Frenzy017/task-manager)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Frenzy017&theme=vision-friendly-dark&repo=calculator)](https://github.com/Frenzy017/calculator)
 
 
