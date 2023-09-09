@@ -31,8 +31,8 @@
 
 ## My Projects
 
-<p><img align="left"src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Frenzy017&theme=vision-friendly-dark&repo=admin-dashboard" src="https://github.com/Frenzy017/admin-dashboard)"></p>
-<p><img align="left"src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Frenzy017&theme=vision-friendly-dark&repo=task-manager" src="https://github.com/Frenzy017/task-manager)"></p>
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Frenzy017&theme=vision-friendly-dark&repo=admin-dashboard)](https://github.com/Frenzy017/admin-dashboard) 
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Frenzy017&theme=vision-friendly-dark&repo=task-manager)](https://github.com/Frenzy017/task-manager)
 
 
 
