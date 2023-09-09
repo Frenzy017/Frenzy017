@@ -21,18 +21,18 @@
 [![My Skills](https://skillicons.dev/icons?i=react,ts,javascript,html,css,tailwind,vite,babel,git,vscode,idea&perline=12)](https://skillicons.dev)
 
 ## My Stats
-
+<div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Frenzy017&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&show_icons=true" alt="Frenzy017"/></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Frenzy017&show_icons=true&locale=en&theme=vision-friendly-dark&show_icons=true" alt="Frenzy017"  &nbsp;/></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Frenzy017&theme=vision-friendly-dark&show_icons=true" alt="Frenzy017"  /></p>
-
-
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Frenzy017&theme=vision-friendly-dark&show_icons=true" alt="Frenzy017"   /></p> 
+</div>
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 
 ## My Projects
 
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Frenzy017&theme=vision-friendly-dark&repo=admin-dashboard)](https://github.com/Frenzy017/admin-dashboard)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Frenzy017&theme=vision-friendly-dark&repo=task-manager)](https://github.com/Frenzy017/task-manager)
+<p><img align="left"src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Frenzy017&theme=vision-friendly-dark&repo=admin-dashboard" src="https://github.com/Frenzy017/admin-dashboard)"></p>
+<p><img align="left"src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Frenzy017&theme=vision-friendly-dark&repo=task-manager" src="https://github.com/Frenzy017/task-manager)"></p>
 
 
 
