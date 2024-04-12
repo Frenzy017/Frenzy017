@@ -5,7 +5,7 @@
 </div>
 
 
-🔭 I’m currently applying for intern software developer jobs as I work through the Odin Project's [**React Course**](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript#react-js).
+🔭 I’m currently applying for intern software developer jobs as I work through the Odin Project's [**React Course**](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript#react-js) and also learning more about Data Structure and Algorithms.
 
 🌱 Right now I'm learning React so I can create a polished CV Application and other cool projects I have in mind :)
 
