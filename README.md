@@ -34,7 +34,7 @@
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Frenzy017&theme=vision-friendly-dark&repo=admin-dashboard)](https://github.com/Frenzy017/admin-dashboard) 
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Frenzy017&theme=vision-friendly-dark&repo=task-manager)](https://github.com/Frenzy017/task-manager)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Frenzy017&theme=vision-friendly-dark&repo=cv-application)](https://github.com/Frenzy017/cv-application)
-
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Frenzy017&theme=vision-friendly-dark&repo=pc-shop)](https://github.com/Frenzy017/pc-shop)
 
 
 <!--
