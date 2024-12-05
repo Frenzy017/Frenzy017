@@ -4,10 +4,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sriracha&size=35&duration=3000&color=FCDFA0&center=false&width=630&lines=My+name+is+Aleksandar+Ladzhov!;A+front-end+enthusiast;A+professional+esports+freelance+coach;I+like+tinkering+with+computers!" alt="Aleksandar Ladzhov"></a>
 </div>
 
-
-🔭 I’m currently applying for intern software developer jobs as I work through the Odin Project's [**React Course**](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript#react-js) and also learning more about Data Structure and Algorithms.
-
-🌱 Right now I'm learning React so I can create a polished CV Application and other cool projects I have in mind :)
+🌱 Right now I'm learning Java and practising by creating projects to learn the syntax, methods and libraries better :D
 
 > The Odin Project is a free, open-source curriculum for learning modern web development which teaches you by reading plently of docs, going through personal projects and more!
 >
@@ -16,7 +13,6 @@
 
 
 ## My Skills
-
 
 [![My Skills](https://skillicons.dev/icons?i=react,ts,javascript,html,css,tailwind,vite,babel,git,vscode,idea&perline=12)](https://skillicons.dev)
 
