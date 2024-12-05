@@ -6,6 +6,8 @@
 
 🌱 Right now I'm learning Java and practising by creating projects to learn the syntax, methods and libraries better :D
 
+🔭 All my front-end projects were inspired by the open source page called The Odin Project.
+
 > The Odin Project is a free, open-source curriculum for learning modern web development which teaches you by reading plently of docs, going through personal projects and more!
 >
 > 
