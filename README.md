@@ -16,7 +16,7 @@
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,javascript,html,css,tailwind,vite,babel,git,vscode,idea&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,react,ts,javascript,html,css,tailwind,vite,babel,git,vscode,idea&perline=12)](https://skillicons.dev)
 
 ## My Stats
 <div>
