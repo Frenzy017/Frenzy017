@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="left">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sriracha&size=35&duration=3000&color=FCDFA0&center=false&width=630&lines=My+name+is+Aleksandar+Ladzhov!;A+front-end+enthusiast;A+professional+esports+freelance+coach;I+like+tinkering+with+computers!" alt="Aleksandar Ladzhov"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sriracha&size=35&duration=3000&color=FFFFFF&center=false&width=630&lines=My+name+is+Aleksandar+Ladzhov!;A+front-end+enthusiast;A+professional+esports+freelance+coach;I+like+tinkering+with+computers!" alt="Aleksandar Ladzhov"></a>
 </div>
 
 🌱 Right now I'm learning Java and practising by creating projects to learn the syntax, methods and libraries better :D
